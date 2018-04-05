@@ -62,6 +62,27 @@
 <%@include file="Footer.jsp" %>
 
  
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+
+<div id="video3" class="fluid-container">
+<%@include file="Header.jsp" %>
+
+</div>
+
+    <video width="800" height="450" controls >
+      <source src="C:\Users\mr tyagi\Desktop\Music Site\Songs\Video\Video3.mp4" type="video/mp4">
+   </video>
+   <br/><br/>
+   <a href="#video4">Next</a>
+   <a href="#video2">Prev</a>
+   <a href="Index.jsp">Home</a>
+ 
+ 
+ 
+<%@include file="Footer.jsp" %>
+ 
+ 
 
 
 </body>
