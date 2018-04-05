@@ -21,13 +21,13 @@
                      
 <div class="col-sm-12">
 <ul class="navi">
-	<li><a href="Navigation.html" >Home</a></li>
-	<li><a href="Music.html" >Listen Music</a></li>
-	<li><a href="Aboutus.html" >About Us</a></li>
-	<li><a href="Contactus.html" >Contact Us</a></li>
-	<li><a href="Login.html" >Login</a></li>
-	<li><a href="Termandcondition.html" >Terms & Condition</a></li>
-	<li><a href="Feedback.html" >Feedback</a></li>	
+	<li><a href="Navigation.jsp" >Home</a></li>
+	<li><a href="Music.jsp" >Listen Music</a></li>
+	<li><a href="Aboutus.jsp" >About Us</a></li>
+	<li><a href="Contactus.jsp" >Contact Us</a></li>
+	<li><a href="Login.jsp" >Login</a></li>
+	<li><a href="Termandcondition.jsp" >Terms & Condition</a></li>
+	<li><a href="Feedback.jsp" >Feedback</a></li>	
 </ul>
 </div>
 

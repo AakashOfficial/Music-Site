@@ -88,3 +88,38 @@ body{
     display: block;
 }
 
+
+/*--------------------------------------------------------------------------------------*/
+
+/* Footer */
+
+.footer-bottom {
+    padding: 40px 0 30px;
+    border-top: 1px solid #666;
+}
+.copyright-text p {
+    color: #ccc;
+    margin-top: 9px;
+    margin-bottom: 0;
+}
+.social-link li {
+    display: inline-block;
+    margin: 0 5px;
+}
+.social-link li a {
+    color: white;
+    border: 1px solid #ccc;
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    border-radius: 50%;
+    text-align: center;
+    display: inline-block;
+    font-size: 14px;
+    transition: .5s;
+}
+
+
+
+
+/*--------------------------------------------------------------------------------------*/
