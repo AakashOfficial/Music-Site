@@ -156,6 +156,28 @@
 
 <%@include file="Footer.jsp" %>
 
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+
+<div id="mp38" class="fluid-container">
+
+<%@include file="Header.jsp" %>
+
+<h1>Mere Rashke Kamar - MP3</h1><br/><br/>
+    <audio controls>
+  <source src="S:\Program Files\Eclipse\Term Paper\Music Hub\WebContent\Songs\Mp3\mp38.mp3" type="audio/mpeg">
+</audio>
+
+<br/><br/>
+   <a href="#mp39">Next</a>
+   <a href="#mp37">Prev</a>
+   <a href="Navigation.html">Home</a>
+</div>
+   <br/><br/><br/><br/><br/><br/><br/><br/>
+ 
+<%@include file="Footer.jsp" %>
+
+
 
 </body>
 </html>
