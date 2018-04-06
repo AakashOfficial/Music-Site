@@ -21,7 +21,7 @@
                      
 <div class="col-sm-12">
 <ul class="navi">
-	<li><a href="Navigation.jsp" >Home</a></li>
+	<li><a href="index.jsp" >Home</a></li>
 	<li><a href="Music.jsp" >Listen Music</a></li>
 	<li><a href="Aboutus.jsp" >About Us</a></li>
 	<li><a href="Contactus.jsp" >Contact Us</a></li>

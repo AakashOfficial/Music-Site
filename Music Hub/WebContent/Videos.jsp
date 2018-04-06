@@ -20,7 +20,7 @@
 <form>
    <center>   
    <video width="800" height="450" controls >
-      <source src="C:\Users\mr tyagi\Desktop\Music Site\Songs\Video\Video1.mp4" type="video/mp4">
+      <source src="file:///C:/Users/mr%20tyagi/Desktop/Music%20Site/Songs/Video/Video1.mp4" type="video/mp4">
    </video>
 
    <br/></br>
@@ -41,7 +41,7 @@
 
 </div>
    <video width="800" height="450" controls >
-      <source src="C:\Users\mr tyagi\Desktop\Music Site\Songs\Video\Video2.mp4" type="video/mp4">
+      <source src="S:\Program Files\Eclipse\Term Paper\Music Hub\WebContent\Songs\Video\Video2.mp4" type="video/mp4">
    </video>
    <br/><br/>
    <a href="#video3">Next</a>
@@ -62,7 +62,7 @@
 </div>
 
     <video width="800" height="450" controls >
-      <source src="C:\Users\mr tyagi\Desktop\Music Site\Songs\Video\Video3.mp4" type="video/mp4">
+      <source src="S:\Program Files\Eclipse\Term Paper\Music Hub\WebContent\Songs\Video\Video3.mp4" type="video/mp4">
    </video>
    <br/><br/>
    <a href="#video4">Next</a>
@@ -82,7 +82,7 @@
 </div> 
 
 	<video width="800" height="450" controls >
-      <source src="C:\Users\mr tyagi\Desktop\Music Site\Songs\Video\Video4.mp4" type="video/mp4">
+      <source src="S:\Program Files\Eclipse\Term Paper\Music Hub\WebContent\Songs\Video\Video4.mp4" type="video/mp4">
    </video>
    <br/><br/>
    <a href="#video3">Prev</a>

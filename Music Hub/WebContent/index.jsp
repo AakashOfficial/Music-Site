@@ -12,19 +12,17 @@
 <!------ Include the above in your HEAD tag ---------->
 </head>
 <body class="body">
-<div class="fluid-container">
-<div class="col-sm-12">
-<ul class="navi">
-	<li><a href="index.jsp" >Home</a></li>
-	<li><a href="Music.jsp" >Listen Music</a></li>
-	<li><a href="Aboutus.jsp" >About Us</a></li>
-	<li><a href="Contactus.html" >Contact Us</a></li>
-	<li><a href="Login.jsp" >Login</a></li>
-	<li><a href="Termandcondition.jsp" >Terms & Condition</a></li>
-	<li><a href="Feedback.jsp" >Feedback</a></li>	
-</ul>
-</div>
-</div>
+ 
+ <%@include file="Header.jsp" %>
+ 
+ 
+<%@include file="Slider.jsp" %>
 
+
+<br/> <br/>
+<div>
+
+
+<%@include file="Footer.jsp" %>
 </body>
 </html>

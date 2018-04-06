@@ -9,22 +9,28 @@
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 <script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
-<!------ Include the above in your HEAD tag ---------->
+
 </head>
-<body class="body">
-<div class="fluid-container">
-<div class="col-sm-12">
-<ul class="navi">
-	<li><a href="index.jsp" >Home</a></li>
-	<li><a href="Music.jsp" >Listen Music</a></li>
-	<li><a href="Aboutus.jsp" >About Us</a></li>
-	<li><a href="Contactus.html" >Contact Us</a></li>
-	<li><a href="Login.jsp" >Login</a></li>
-	<li><a href="Termandcondition.jsp" >Terms & Condition</a></li>
-	<li><a href="Feedback.jsp" >Feedback</a></li>	
-</ul>
+<body>
+
+<div id="mp31" class="fluid-container">
+
+<%@include file="Header.jsp" %>
+
+<h1>Kaun Tujhe - MP3</h1><br/><br/>
+    <audio controls>
+  <source src="S:\Program Files\Eclipse\Term Paper\Music Hub\WebContent\Songs\Mp3\mp31.mp3" type="audio/mpeg">
+</audio>
+
+<br/><br/>
+   <a href="#mp32">Next</a>
+   <a href="Navigation.html">Home</a>
 </div>
-</div>
+   <br/><br/><br/><br/><br/><br/><br/><br/>
+
+ <%@include file="Footer.jsp" %>
+ 
+
 
 </body>
 </html>
