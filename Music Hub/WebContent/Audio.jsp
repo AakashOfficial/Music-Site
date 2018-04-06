@@ -177,6 +177,27 @@
  
 <%@include file="Footer.jsp" %>
 
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+
+<div id="mp39" class="fluid-container">
+
+<%@include file="Header.jsp" %>
+
+<h1>Khair Manga Raid - MP3</h1><br/><br/>
+    <audio controls>
+  <source src="S:\Program Files\Eclipse\Term Paper\Music Hub\WebContent\Songs\Mp3\mp39.mp3" type="audio/mpeg">
+</audio>
+
+<br/><br/>
+   <a href="#mp310">Next</a>
+   <a href="#mp38">Prev</a>
+   <a href="Navigation.html">Home</a>
+</div>
+   <br/><br/><br/><br/><br/><br/><br/><br/>
+ 
+<%@include file="Footer.jsp" %>
+
 
 
 </body>
