@@ -30,6 +30,27 @@
 
  <%@include file="Footer.jsp" %>
  
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+
+<div id="mp32" class="fluid-container">
+
+<%@include file="Header.jsp" %>
+
+<h1>Na Ja Na Ja Pav Dharia - MP3</h1><br/><br/>
+    <audio controls>
+  <source src="S:\Program Files\Eclipse\Term Paper\Music Hub\WebContent\Songs\Mp3\mp32.mp3" type="audio/mpeg">
+</audio>
+
+<br/><br/>
+   <a href="#mp33">Next</a>
+   <a href="#mp31">Prev</a>
+   <a href="Navigation.html">Home</a>
+</div>
+   <br/><br/><br/><br/><br/><br/><br/><br/>
+
+<%@include file="Footer.jsp" %>
+
 
 
 </body>
