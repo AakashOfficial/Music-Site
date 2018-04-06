@@ -114,6 +114,48 @@
  
 <%@include file="Footer.jsp" %>
 
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+
+<div id="mp36" class="fluid-container">
+
+<%@include file="Header.jsp" %>
+
+<h1>Shada Parmish Verma - MP3</h1><br/><br/>
+    <audio controls>
+  <source src="S:\Program Files\Eclipse\Term Paper\Music Hub\WebContent\Songs\Mp3\mp36.mp3" type="audio/mpeg">
+</audio>
+
+<br/><br/>
+   <a href="#mp37">Next</a>
+   <a href="#mp35">Prev</a>
+   <a href="Navigation.html">Home</a>
+</div>
+   <br/><br/><br/><br/><br/><br/><br/><br/>
+ 
+<%@include file="Footer.jsp" %>
+
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+
+<div id="mp37" class="fluid-container"> 
+
+<%@include file="Header.jsp" %>
+
+<h1>Tum Kon Piya - MP3</h1><br/><br/>
+    <audio controls>
+  <source src="S:\Program Files\Eclipse\Term Paper\Music Hub\WebContent\Songs\Mp3\mp37.mp3" type="audio/mpeg">
+</audio>
+
+<br/><br/>
+   <a href="#mp38">Next</a>
+   <a href="#mp36">Prev</a>
+   <a href="Navigation.html">Home</a>
+</div>
+   <br/><br/><br/><br/><br/><br/><br/><br/>
+
+<%@include file="Footer.jsp" %>
+
 
 </body>
 </html>
