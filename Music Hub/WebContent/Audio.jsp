@@ -93,6 +93,26 @@
 
 <%@include file="Footer.jsp" %>
 
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+
+<div id="mp35" class="fluid-container">
+
+<%@include file="Header.jsp" %>
+
+<h1>Oh Oh Jane Jana - MP3</h1><br/><br/>
+    <audio controls>
+  <source src="S:\Program Files\Eclipse\Term Paper\Music Hub\WebContent\Songs\Mp3\mp35.mp3" type="audio/mpeg">
+</audio>
+
+<br/><br/>
+   <a href="#mp36">Next</a>
+   <a href="#mp34">Prev</a>
+   <a href="Navigation.html">Home</a>
+</div>
+   <br/><br/><br/><br/><br/><br/><br/><br/>
+ 
+<%@include file="Footer.jsp" %>
 
 
 </body>
